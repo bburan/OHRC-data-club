@@ -1,7 +1,3 @@
----
-title: OHRC data club - prior meetings
-layout: post
----
 # Contents
 
 * [Main](index.md)
