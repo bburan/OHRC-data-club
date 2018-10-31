@@ -1,3 +1,7 @@
+---
+title: OHRC data club
+layout: post
+---
 # Contents
 
 * [Upcoming meetings](upcoming.md)
