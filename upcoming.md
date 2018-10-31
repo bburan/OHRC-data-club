@@ -1,3 +1,13 @@
+---
+title: OHRC data club - upcoming meetings
+layout: post
+---
+# Contents
+
+* [Main](index.md)
+* [Upcoming meetings](upcoming.md)
+* [Previous meetings](prior.md)
+
 # Upcoming meetings
 
 ## Wednesday, November 14 8:30am to 9:30am in HRC 0405
