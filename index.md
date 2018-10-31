@@ -4,6 +4,7 @@ layout: post
 ---
 # Contents
 
+* [Main](index.md)
 * [Upcoming meetings](upcoming.md)
 * [Previous meetings](prior.md)
 
