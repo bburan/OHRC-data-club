@@ -5,7 +5,7 @@ layout: post
 # Contents
 
 * [Upcoming meetings](upcoming.md)
-* [Previous meetings](previous.md)
+* [Previous meetings](prior.md)
 
 # Overview
 
