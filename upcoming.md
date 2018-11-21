@@ -6,10 +6,6 @@
 
 # Upcoming meetings
 
-## Wednesday, November 14 8:30am to 9:30am in HRC 0405
-* Jesyin Lai (30 min.) - Preliminary data talk - Effects of Vagus Nerve Stimulation (VNS) on Auditory Learning and Activity in Auditory Cortex.
-* Tess Koerner (30 min.) - Preliminary data talk - Exploring Relationships Between Speech Understanding and Auditory ERPs.”Title to be announced.
-
 ## Wednesday, November 28 8:30am to 9:30am in HRC 0405
 *Slots are available. Please contact the organizers if you're interested in
 presenting.*
