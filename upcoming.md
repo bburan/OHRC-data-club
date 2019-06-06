@@ -6,6 +6,7 @@
 
 # Upcoming meetings
 
-## Wednesday, March 27 9:00am to 10:00am in HRC 0405
-**Slots are open. Please contact us if you're interested in presenting.**
-* George Burwood: Analyzing cochlear blood flow changes in response to loud sound exposure in the salsa mouse (update)
+## Wednesday, June 26 9:00am to 10:00am in HRC 0405
+
+* Alfred Nuttall: The strange tale of outer hair cell mitochondria
+* Melissa Lawrence: Effects of Electro-Acoustic Stimulation on Hearing in Guinea Pigs with Hybrid Cochlear Implants
