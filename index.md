@@ -6,7 +6,7 @@
 
 # Overview
 
-We typically meet on the last Wednesday of the month from 8:30 to 9:30am in the OHRC conference room (Hatfield Research Center room 0405, take the "G" elevator). Coffee is provided.
+We typically meet on the last Wednesday of the month from 9 to 10am in the OHRC conference room (Hatfield Research Center room 0405, take the "G" elevator). Coffee is provided.
 
 If you're a member of the OHRC, you should automatically recieve announcements via the OHRC staff listserv. If you aren't a member of the OHRC or wish to recieve the announcements at a different email, contact the organizers.
 
