@@ -77,8 +77,19 @@
 
 ## Wednesday, November 14 8:30am to 9:30am in HRC 0405
 * Jesyin Lai (30 min.) - Preliminary data talk - Effects of Vagus Nerve Stimulation (VNS) on Auditory Learning and Activity in Auditory Cortex.
-* Tess Koerner (30 min.) - Preliminary data talk - Exploring Relationships Between Speech Understanding and Auditory ERPs.”Title to be announced.
+* Tess Koerner (30 min.) - Preliminary data talk - Exploring Relationships Between Speech Understanding and Auditory ERPs.
 
 ## Wednesday, November 28 8:30am to 9:30am in HRC 0405
 * Andrew Baker (30 min.) - Title to be announced.
 * Brad Buran (30 min.) - Optimizing ABR acquisition using interleaved stimuli
+
+## Wednesday, March 27 9:00am to 10:00am in HRC 0405
+* George Burwood (30 min.) - Analyzing cochlear blood flow changes in response to loud sound exposure in the salsa mouse.
+
+## Wednesday, April 24 9:00am to 10:00am in HRC 0405
+* Michelle Molis (30 min.) - Differential diagnosis of auditory dysfunction: hidden hearing loss and central auditory processing disorders.
+* Will Bologna (30 min.) - Neural coding and behavioral abilities underlying speech recognition in fluctuating noise.
+
+## Wednesday, May 29 9:00am to 10:00am in HRC 0405
+* Morgan Eddolls (30 min.) - Effect of onset asynchrony on dichotic concurrent vowel identification in hearing impaired and normal.
+* Tianying Ren (30 min.) - Title to be announced.
