@@ -13,5 +13,5 @@
 
 ## Wednesday, July 31 9:00am to 10:00am in HRC 0405
 
-* Jesyin Lai (30 min.) - To be announced.
+* Jesyin Lai (30 min.) - Short-term effects of vagus nerve stimulation on auditory learning and stimulus-specific activity in auditory cortex.
 * Garnett Mcmillan (30 min.) - Statistical analysis of measurements above (or below) detection limits.
