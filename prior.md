@@ -93,3 +93,13 @@
 ## Wednesday, May 29 9:00am to 10:00am in HRC 0405
 * Morgan Eddolls (30 min.) - Effect of onset asynchrony on dichotic concurrent vowel identification in hearing impaired and normal.
 * Tianying Ren (30 min.) - Title to be announced.
+
+## Wednesday, June 26 9:00am to 10:00am in HRC 0405
+
+* Alfred Nuttall (30 min.) - The strange tale of outer hair cell mitochondria.
+* Melissa Lawrence (30 min.) - Effects of Electro-Acoustic Stimulation on Hearing in Guinea Pigs with Hybrid Cochlear Implants.
+
+## Wednesday, July 31 9:00am to 10:00am in HRC 0405
+
+* Jesyin Lai (30 min.) - Short-term effects of vagus nerve stimulation on auditory learning and stimulus-specific activity in auditory cortex.
+* Garnett Mcmillan (30 min.) - Statistical analysis of measurements above (or below) detection limits.
